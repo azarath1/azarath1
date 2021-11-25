@@ -11,7 +11,7 @@
 **🆓 In my freetime:** 
 - I do a lot of coding 💻 for fun 
 - brew beer 🍺 
-- going on concerts 🎸
+- going to concerts 🎸
 - learning new things 📖 
 - gaming🎮🎲.
 - 🐕 I have a pet dog called Rusty. 
