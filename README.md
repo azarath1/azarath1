@@ -8,14 +8,19 @@
 + get a decent position
 + learn the bass
 ```
-- 🆓 In my freetime: I do a lot of coding 💻 for fun, brew beer 🍺, slap the bass 🎸, learning new things 📖 and also gaming🎮🎲.
+**🆓 In my freetime:** 
+- I do a lot of coding 💻 for fun 
+- brew beer 🍺 
+- going on concerts 🎸
+- learning new things 📖 
+- gaming🎮🎲.
 - 🐕 I have a pet dog called Rusty. 
 
 ## Connections:
 
 
 ## Codewars  
-![Codewars](https://www.codewars.com/users/azarath1/badges/small)  
+![Codewars](https://github-readme-codewars-stats.herokuapp.com/api/?username=azarath1&card)  
 ## Github Statistics  
 [![Github stats](https://github-readme-stats.vercel.app/api?username=azarath1&count_private=true&show_icons=true&theme=midnight-purple&cache_seconds=2000)](https://github-readme-stats.vercel.app/api?username=azarath1&show_icons=true&theme=midnight-purple&cache_seconds=2000&count_private=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azarath1&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)  
