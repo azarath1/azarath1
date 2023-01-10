@@ -1,12 +1,13 @@
 # Hi there, I'm Sajó! 🧔
 
-- 👨‍🎓 I’m currently at the end of my [Codecool](https://codecool.com/en/) journey.
-- 👨‍💼 I'm looking for an open position as a junior developer.
+var post = @"Junior C# developer";
+
+- I’m currently working as a full time developer.
 - 🗺️ My plans for the future includes:
  ```diff
 + improving my always growing tech stack
-+ get a decent position
-+ learn the bass
++ J'apprends le français
++ travel to Naples eat a proper Neapolitan pizza
 ```
 **🆓 In my freetime:** 
 - I do a lot of coding 💻 for fun 
@@ -15,9 +16,10 @@
 - learning new things 📖 
 - gaming🎮🎲.
 - 🐕 I have a pet dog called Rusty. 
+- proud to be a DINKWAD
 
 ## Connections:
-
+![Linkedin](https://www.linkedin.com/in/rolandsajovolgyi/)
 
 ## Codewars  
 ![Codewars](https://github-readme-codewars-stats.herokuapp.com/api/?username=azarath1&card&customcolor=bg:0d1117_fg:0d1117_text:7f3ace)  
