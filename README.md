@@ -19,9 +19,7 @@ var post = @"Junior C# developer";
 - proud to be a DINKWAD
 
 ## Connections:
-![Linkedin](https://www.linkedin.com/in/rolandsajovolgyi/)
+[!Linkedin](https://www.linkedin.com/in/rolandsajovolgyi/)
 
-## Codewars  
-![Codewars](https://github-readme-codewars-stats.herokuapp.com/api/?username=azarath1&card&customcolor=bg:0d1117_fg:0d1117_text:7f3ace)  
 ## Github Statistics  
 [![Github stats](https://github-readme-stats.vercel.app/api?username=azarath1&count_private=true&show_icons=true&theme=midnight-purple&cache_seconds=2000)](https://github-readme-stats.vercel.app/api?username=azarath1&show_icons=true&theme=midnight-purple&cache_seconds=2000&count_private=true)
