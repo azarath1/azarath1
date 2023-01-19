@@ -1,13 +1,13 @@
 # Hi there, I'm Sajó! 🧔
 
-var post = @"Junior C# developer";
+var position = @"Junior C# developer";
 
 - I’m currently working as a full time developer.
-- 🗺️ My plans for the future includes:
+- 🗺️ Currently I'm on:
  ```diff
-+ improving my always growing tech stack
++ Improving my always growing tech stack
 + J'apprends le français
-+ travel to Naples eat a proper Neapolitan pizza
++ Travel to Naples eat a proper Neapolitan pizza
 ```
 **🆓 In my freetime:** 
 - I do a lot of coding 💻 for fun 
