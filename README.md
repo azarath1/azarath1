@@ -2,10 +2,11 @@
 
 var position = @"Junior C# developer";
 
-- I’m currently working as a full time developer.
 - 🗺️ Currently I'm on:
  ```diff
 + Improving my always growing tech stack
++ Working full time
++ Moving to a new home
 + J'apprends le français
 + Travel to Naples eat a proper Neapolitan pizza
 ```
