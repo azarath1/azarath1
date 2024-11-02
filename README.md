@@ -1,14 +1,14 @@
 # Hi there, I'm Sajó! 🧔
 
-var position = @"Junior C# developer";
+var position = @"Med C# developer";
 
 - 🗺️ Currently I'm on:
  ```diff
 + Improving my always growing tech stack
 + Working full time
-+ Moving to a new home
++ Figuring out a divorce
 + J'apprends le français
-+ Travel to Naples eat a proper Neapolitan pizza
++ Hiting the weights
 ```
 **🆓 In my freetime:** 
 - I do a lot of coding 💻 for fun 
@@ -16,8 +16,7 @@ var position = @"Junior C# developer";
 - going to concerts 🎸
 - learning new things 📖 
 - gaming🎮🎲.
-- 🐕 I have a pet dog called Rusty. 
-- proud to be a DINKWAD
+
 
 ## Connections:
 [Linkedin](https://www.linkedin.com/in/rolandsajovolgyi/)
